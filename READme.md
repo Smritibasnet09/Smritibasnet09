@@ -14,12 +14,7 @@
 
 I am currently exploring the intersection of **Artificial Intelligence, Machine Learning, and system design**, with a strong focus on practical learning and real-world application.
 
-<<<<<<< HEAD
 🔗 Discover more about my work: [Visit My Portfolio](https://smritibasnet.com.np/)
-=======
-🔗 Discover more about my work: [Visit My Portfolio](https://personal-portfolio-bay-kappa-63.vercel.app)
->>>>>>> a25b7a096593a7b4d73c23484651eef13bbc4a2b
-
 ---
 
 ## ⚡ Currently Working On
