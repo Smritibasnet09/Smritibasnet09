@@ -26,7 +26,7 @@ I am currently exploring the intersection of **Artificial Intelligence, Machine 
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode,aws" />
