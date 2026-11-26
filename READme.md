@@ -1,8 +1,11 @@
-<h1 align="center">Hi, I'm Smriti Basnet 👋</h1>
-
+<!-- ==================== HEADER ==================== -->
 <p align="center">
-  <b>Artificial Intelligence &nbsp;•&nbsp; Machine Learning &nbsp;•&nbsp; Systems Thinking</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=230&section=header&text=Smriti%20Basnet&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Systems%20Thinking&descSize=18&descAlignY=60" width="100%"/>
 </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=45&lines=Hi,+I'm+Smriti+%F0%9F%91%8B;Building+intelligent+systems+%F0%9F%A4%96;Exploring+AI+%26+Machine+Learning+%F0%9F%A7%A0;Learning.+Building.+Improving.+%E2%9A%A1" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   Focused on building intelligent systems and understanding<br/>
@@ -19,6 +22,10 @@
   <a href="mailto:basnetsmriti62@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Smritibasnet09&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
@@ -67,8 +74,7 @@ I am currently exploring the intersection of **Artificial Intelligence, Machine 
   <i>"The best systems are not just built — they are deeply understood."</i>
 </p>
 
----
-
+<!-- ==================== FOOTER ==================== -->
 <p align="center">
-  ⭐ Learning. Building. Improving.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=120&section=footer" width="100%"/>
 </p>
