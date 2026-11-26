@@ -9,7 +9,7 @@
 
 <p align="center">
   Focused on building intelligent systems and understanding<br/>
-  how they work in real-world environments.
+  how they work in real world environments.
 </p>
 
 <p align="center">
